@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M Harshitha
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and java.
+- 🌱 I’m currently learning python.
 
 
 <!---
